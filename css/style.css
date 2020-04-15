@@ -41,6 +41,7 @@ h4 {
   border: 1px solid #d72828;
   box-shadow:  -1px 1px #d72828, -2px 2px #d72828, -3px 3px #d72828, -4px 4px #d72828, -5px 5px #d72828;
   background-color: #dd4444;
+  background: linear-gradient(to right, #d72828, #dd4444);
 }
 
 .column {
